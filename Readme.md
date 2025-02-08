@@ -3,7 +3,7 @@
 ### Artículo:
 
 ### Integrantes:
-### Yilmer Alexis Palacios Rodriguez
-### Kevin Andres Rico Torres
-### Juan Felipe Vargas Guacheta
+#### Yilmer Alexis Palacios Rodriguez
+#### Kevin Andres Rico Torres
+#### Juan Felipe Vargas Guacheta
 
