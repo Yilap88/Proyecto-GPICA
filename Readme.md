@@ -7,3 +7,5 @@
 #### Kevin Andres Rico Torres
 #### Juan Felipe Vargas Guacheta
 
+## Estructura básica
+
