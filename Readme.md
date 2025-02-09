@@ -15,14 +15,14 @@
 
 ### Directorio y Explicación
 
-``` Directorio:
- ├───Codigo_Fuente
- ├───Data
- │   ├───Data_raw
- │   └───Data_procesada
- ├───Docs
- └───Resultados
-```
+#### Directorio:  
+ ├───Codigo_Fuente  
+ ├───Data  
+ │   ├───Data_raw  
+ │   └───Data_procesada  
+ ├───Docs  
+ └───Resultados  
+
 #### Cógido Fuente: Alcena el código usado para realizar los modelos de probabilidad lineal MPL.
 #### Data: Contiene los datos
 ##### Data_raw: Contiene los datos originales de la encuesta nacional del 2022.
