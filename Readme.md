@@ -23,15 +23,15 @@
  ├───Docs  
  └───Resultados  
 
-#### Cógido Fuente: Alcena el código usado para realizar los modelos de probabilidad lineal MPL.
-#### Data: Contiene los datos
-##### Data_raw: Contiene los datos originales de la encuesta nacional del 2022.
-##### Data_procesada: Contiene los datos limpiados y procesados, listos para correr los modelos. 
-#### Docs: Se almacenan los documentos originales de la investigación, y la documentación relacionada con el proyecto de replicación.
-#### Resultados: Almacena las tablas con los resultados de los modelos corridos en la reproducción.
+* Cógido Fuente: Alcena el código usado para realizar los modelos de probabilidad lineal MPL.
+* Data: Contiene los datos
+* Data_raw: Contiene los datos originales de la encuesta nacional del 2022.
+* Data_procesada: Contiene los datos limpiados y procesados, listos para correr los modelos. 
+* Docs: Se almacenan los documentos originales de la investigación, y la documentación relacionada con el proyecto de replicación.
+* Resultados: Almacena las tablas con los resultados de los modelos corridos en la reproducción.
 
 ### Requisitos iniciales identificados
-#### Software para procesamiento de texto
-#### Software para procesamiento de datos y de modelamiento estadistico
+* Software para procesamiento de texto
+* Software para procesamiento de datos y de modelamiento estadistico
 
 
