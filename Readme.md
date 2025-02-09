@@ -13,20 +13,20 @@
 
 ### Directorio
 
-####
-####├───Codigo_Fuente
-####├───Data
-####│   ├───Data_raw
-####│   └───Data_procesada
-####├───Docs
-####└───Resultados
+#### Directorio:
+#### ├───Codigo_Fuente
+#### ├───Data
+#### │   ├───Data_raw
+#### │   └───Data_procesada
+#### ├───Docs
+#### └───Resultados
 
-####Cógido Fuente:
-####Data:
-#####Data_raw: 
-#####Data_raw: 
-####Docs:
-####Resultados:
+#### Cógido Fuente:
+#### Data:
+##### Data_raw: 
+##### Data_raw: 
+#### Docs:
+#### Resultados:
 
 ### Requisitos iniciales identificados
 
