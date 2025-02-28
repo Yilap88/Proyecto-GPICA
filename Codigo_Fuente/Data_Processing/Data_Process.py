@@ -14,6 +14,9 @@ os.chdir(dirsup2)
 
 
 ### Cargamos la base de datos .sav
-df, meta = pyreadstat.read_sav('Data/Data_raw/EHPM_2020.sav')
+df = pd.read_stata('Data/Data_raw/Survey_original.dta')
 print(df.head())
+
+
+
   
