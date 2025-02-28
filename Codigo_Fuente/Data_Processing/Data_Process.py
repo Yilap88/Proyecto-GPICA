@@ -15,8 +15,16 @@ os.chdir(dirsup2)
 
 ### Cargamos la base de datos .sav
 df = pd.read_stata('Data/Data_raw/Survey_original.dta')
-print(df.head())
+print(df)
+
+df = df[df['p12'] == "Sí"]
+print(df['p12'])
+
+df['cel_internet'] = np.where(((df['_v1'] == "Sí, en celular/teléfono móvil propio") | (df['_v1'] == "Sí, en casa") ) | ((df['_v2'] == "Sí, en celular/teléfono móvil propio") | (df['_v2'] == "")), 'Sí', 'No')    
 
 
+print(df['p12'])
+
+df.to_excel('Data/Data_raw/Survey_original.xlsx', index=False)
 
   
